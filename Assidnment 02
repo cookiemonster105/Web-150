@@ -1,0 +1,50 @@
+<!Doctype HTML>
+<html>
+
+<head>
+<title> Test Bed</title>
+<link rel="stylesheet" type="text/css" href="ass01.css">
+
+</head>
+
+<body>
+
+
+<div id=b>
+<h3>test</h3>
+
+</div><!--b-->
+
+
+
+
+
+
+
+<script><!--Java Script-->
+
+var yesOrNo = prompt("yes or no?");
+
+if (yesOrNo == "yes");{ 
+	
+    var line = prompt ("Do you use line a: Do you have a sunburn, or are you always this hot? or b: Is your daddy a Baker? Because you've got a nice set of buns!"); }
+	
+		if (line == "a");{
+		 console.log("She responds Thanks and you work your magic.");}
+		
+		else if(line == "b");{
+		 console.log("She responds Thanks and you work your magic.");}
+		
+	
+
+
+
+
+
+	
+			
+			
+			</script> <!--END Java Script-->
+</body>
+
+</html>
