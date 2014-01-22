@@ -1,0 +1,67 @@
+<!Doctype HTML>
+<html>
+
+<head>
+<title> Assignment 02 Web 150</title>
+<!--<link rel="stylesheet" type="text/css" href="ass02.css">-->
+
+</head>
+
+<body>
+<div id=a>
+
+<div id=b>
+<h3>Assignment 02</h3>
+<h4>Web 150</h4>
+<h4>Wayne Journee</h4>
+</div><!--b-->
+
+
+</div><!--a-->
+
+<!--Java Script-->
+
+
+<script>
+var enter = confirm("You are at a bar and your bud asks Should You Ask Her Out, Bro?");
+
+var enter = confirm ("Is she pretty?");
+var yesOrNo = prompt("yes or no?");{
+
+if (yesOrNo == "yes"){ 
+
+    var line = prompt ("Do you use line a: Do you have a sunburn, or are you always this hot? or b: Is your daddy a Baker? Because you've got a nice set of buns!"); }
+	
+	if (line == "a");{
+		 console.log("She responds Thanks and you work your magic.");}
+		
+		else if (line =="b"); {
+		 console.log("She slaps you in the face.");}
+		}
+	
+	
+	
+else (yesOrNo == "no");{ 
+
+	var enter = confirm ("Relax, have another beer.");{
+
+		var beer = prompt("How many beers do you have?");
+		if (beer <=2){		
+           var enter = confirm("Continue to relax!");}
+		  
+			
+	else if (beer >=2 && beer <= 5) {
+            var enter = confirm ("You are now beer goggleing, approach what is now the most beautiful girl in the world.") 
+
+	else (beer >5) {
+			var enter = confirm ("You are experiencing alcohol poisoning, you are now headed to the hospital!");}
+		
+		}			
+			}}
+     
+
+
+</script> <!--END Java Script-->
+</body>
+
+</html>
